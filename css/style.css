@@ -700,8 +700,12 @@ body {
 }
 
 .titre_resto  {
-  font-family: "Shrikhand", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: bold;
+  font-size: 30px;
+  background-color: red;
+  width: auto;
+  margin: 0 50%;
 }
 
 .card-restaurant {
