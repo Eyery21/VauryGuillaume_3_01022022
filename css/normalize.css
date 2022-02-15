@@ -1,0 +1,64 @@
+.footer {
+    background-color: #3f3d3d;
+    padding: 20px;
+  }
+  
+  .logo-page-acceuil-footer {
+    width: 30%;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+  }
+  
+  .texte-footer ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding: 0;
+  }
+  
+  .texte-footer li {
+    list-style-type: none;
+    line-height: 5px;
+  }
+  
+  .texte-footer p {
+    list-style-type: none;
+    line-height: 15px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .text-logo-footer {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+  
+  .text-logo-footer .fas {
+    width: 1%;
+    height: auto;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-right: 1%;
+  }
+  
+  .logo-footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
