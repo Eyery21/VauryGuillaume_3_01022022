@@ -568,14 +568,18 @@ body {
   
   animation-name: transition;
   animation-duration: 2s;
+  animation-fill-mode: both;
 
 
 }
 .plats{
   animation-delay: 1s;
+  animation-fill-mode: both;
 }
 .desserts{
   animation-delay: 2s;
+  animation-fill-mode: both;
+
 }
 
 
@@ -1016,14 +1020,20 @@ a:visited {
     width: 33%;
     animation-name: transition;
     animation-duration: 2s;
+    animation-fill-mode: both;
+
 
 
   }
   .plats{
     animation-delay: 1s;
+    animation-fill-mode: both;
+
   }
   .desserts{
     animation-delay: 2s;
+    animation-fill-mode: both;
+
   }
 
   
